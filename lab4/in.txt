@@ -1,0 +1,24 @@
+23
+Yakovlev Leonid 5 5 5
+Shilo Oleg 5 5 5
+Rahamaeva Alysa 4 5 5
+Horkov Evgeny 4 5 4
+Herringhton Billy 3 4 5
+Ivanov Vasiliy 4 3 4
+Petrov Sergey 5 3 5
+Konstantinov Nikolay 4 4 5
+Darkholm Van 4 4 4
+Milos Ricadrdo 5 5 5
+Sparkle Twilight 5 5 5
+Jackson Michael 3 4 4
+Biden Joe 2 2 2
+Putin Vladymir 5 5 5
+Vagy Hagi 2 3 4
+Fil Valeria 3 4 3
+Kanteev Artem 4 5 5
+Petrov Dima 3 4 3
+Kvasova Dasha 3 3 4
+Fedorov Grigory 5 5 3
+Fazbear Freddy 4 5 4
+Mercuri Freddy 4 4 4
+Kuznetsov Ivan 5 5 5
